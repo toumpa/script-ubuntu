@@ -1,3 +1,3 @@
 # script-ubuntu
 
-Δύο μικρά script σε γλώσσα C shell με λειτουργικό linux.
+Δύο μικρά script με bash.
